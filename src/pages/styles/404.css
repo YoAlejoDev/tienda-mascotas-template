@@ -1,0 +1,16 @@
+div {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+div h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+div p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
